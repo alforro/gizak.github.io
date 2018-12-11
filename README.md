@@ -1,4 +1,9 @@
-gizak.github.io
-===============
+## Terminal Style Landing Page
 
-My Personal Website
+-----
+
+![image](img/screenshot.png)
+
+- view console for more info
+- flat ui colors
+- uses [Typewriter.js](https://github.com/ronv/Typewriter.js)
